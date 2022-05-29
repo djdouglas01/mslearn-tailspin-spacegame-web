@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/djdouglas01/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/djdouglas01.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/djdouglas01/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=2&branchName=build-pipeline)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
